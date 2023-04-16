@@ -1,0 +1,21 @@
+h1, h2 {
+    font-family: 'Righteous', cursive;
+
+}
+h1 {
+    font-size: 48px;
+    margin: 17vh 0 0 20vw;
+    letter-spacing: 10px;
+}
+#name {
+    font-size: 98px;
+    color: #0085FF;
+}
+#hello {
+    font-size: 98px;  
+}
+h2 {
+    font-size: 38px;
+    margin-left: 35vw;
+    color: #694873;
+}

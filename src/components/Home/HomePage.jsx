@@ -1,7 +1,9 @@
+import HomeTitle from "./titles/HomeTitle"
+
 export default function HomePage() {
     return (
         <>
-        <p>Home</p>
+        <HomeTitle />
         </>
     )
 }
