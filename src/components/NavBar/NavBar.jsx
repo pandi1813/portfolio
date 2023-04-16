@@ -1,5 +1,5 @@
 import NavButton from "./Button/Button"
-
+import './navbar.css'
 
 export default function NavBar() {
     return (

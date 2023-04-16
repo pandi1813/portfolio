@@ -1,0 +1,18 @@
+.nav-btn {
+width: 100px;
+height: 30px;
+margin: 15px 10px 0;
+background-color: white;
+border: none;
+border-radius: 10%;
+box-shadow: 2px 2px 2px rgb(82, 82, 82);
+cursor: pointer;
+}
+
+.nav-btn:hover {
+box-shadow: -2px -2px 2px rgb(82, 82, 82);
+}
+ 
+.nav-btn:last-of-type {
+    margin-right: 50px;
+}
