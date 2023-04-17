@@ -4,7 +4,7 @@ export default function ProjectsPage(params) {
     return (
         <>
         <h1>Projects</h1>
-        <div>
+        <div className="flex justify-evenly mx-10">
 
         <ProjectCard/>
         <ProjectCard/>
