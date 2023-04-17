@@ -1,5 +1,16 @@
+import ProjectCard from "../ProjectCard/ProjectCard"
+
 export default function ProjectsPage(params) {
     return (
-        <p>Projects</p>
+        <>
+        <h1>Projects</h1>
+        <div>
+
+        <ProjectCard/>
+        <ProjectCard/>
+        <ProjectCard/>
+        </div>
+        
+        </>
     )
 }
