@@ -4,14 +4,14 @@ export default function Example() {
   return (
     <>
     <div>
-      <section className="text-gray-700 body-font relative">
+      <form action="https://formsubmit.co/andrea.peter1813@gmail.com" method="post" accept-charset="UTF-8" className="text-gray-700 body-font relative">
         <div className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
             <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
               Get in touch
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">
-             Drop me a message, I'd love to hear from you
+             Send me a message, I'd love to hear from you
             </p>
           </div>
           <div className="lg:w-1/2 md:w-2/3 mx-auto">
@@ -70,15 +70,16 @@ export default function Example() {
                   ></textarea>
                 </div>
               </div>
+              <input type="hidden" name="_captcha" value="false"></input>
               <div className="p-2 w-full">
-                <button id='send-btn' className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
+                <button type='submit' id='send-btn' className="flex mx-auto text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg">
                   Send
                 </button>
               </div>
             </div>
           </div>
         </div>
-      </section>
+      </form>
     </div>
     </>
   )
