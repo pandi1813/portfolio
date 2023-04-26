@@ -3,7 +3,7 @@
     {
         "projectName": "Dinosaur quiz game",
         "descriptionShort": "Some short description",
-        "image": "./images/02-portfolio-1.jpg",
+        "image": "./images/dinosaur-quiz.png",
         "tech1": "test1",
         "tech2": "test2",
         "tech3": "test3",
@@ -13,7 +13,7 @@
     {
         "projectName": "Weather Dashboard",
         "descriptionShort": "Some short description",
-        "image": "./images/02-portfolio-1.jpg",
+        "image": "./images/weather-app.png",
         "tech1": "test1",
         "tech2": "test2",
         "tech3": "test3",
@@ -24,7 +24,7 @@
     {
         "projectName": "Top Trumps inspired game",
         "descriptionShort": "Some short description",
-        "image": "./images/02-portfolio-1.jpg",
+        "image": "./images/trump-game.png",
         "tech1": "test1",
         "tech2": "test2",
         "tech3": "test3",
@@ -34,7 +34,7 @@
     {
         "projectName": "MealMate app",
         "descriptionShort": "Our second group project",
-        "image": "./images/02-portfolio-1.jpg",
+        "image": "./images/meal-mate.png",
         "tech1": "test1",
         "tech2": "test2",
         "tech3": "test3",
