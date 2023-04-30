@@ -12,32 +12,33 @@
     },
     {
         "projectName": "Weather Dashboard",
-        "descriptionShort": "Some short description",
+        "descriptionShort": "Weather app built with JavaScript and Open Weather API displaying the current weather and 5-day forecast of any city searched by the user. The app features local storage functionality to save search history, providing a user-friendly experience and easy access to previously searched locations.",
         "image": "./images/weather-app.png",
-        "tech1": "HTML",
-        "tech2": "JavaScript",
+        "tech1": "JavaScript",
+        "tech2": "Open Weather API",
         "tech3": "Bootstrap",
         "github": "https://github.com/pandi1813",
         "liveLink": "https://pandi1813.github.io/react-portfolio/"
     },
    
     {
-        "projectName": "Top Trumps inspired game",
-        "descriptionShort": "Some short description",
+        "projectName": "Heroes and Villains Game",
+        "descriptionShort": "Collaborated with 2 other students to develop a fun Top Trumps inspired game as a group project for a Front End Development Bootcamp. The game presents players with a random character and its unique set of skills, requiring them to strategically select a power to use against the computer's randomly selected hidden character. ",
         "image": "./images/trump-game.png",
-        "tech1": "test1",
-        "tech2": "test2",
-        "tech3": "test3",
+        "tech1": "JavaScript",
+        "tech2": "Superheroes API",
+        "tech3": "Git & GitHub",
         "github": "https://github.com/pandi1813",
         "liveLink": "https://pandi1813.github.io/react-portfolio/"
     },
     {
         "projectName": "MealMate app",
-        "descriptionShort": "Our second group project",
+        "descriptionShort": "Our second group project for the Bootcamp. A recipe app that allows users to input ingredients they want to use and then presents recipe options using those ingredients.",
         "image": "./images/meal-mate.png",
-        "tech1": "test1",
-        "tech2": "test2",
-        "tech3": "test3",
+        "tech1": "React",
+        "tech2": "Bulma",
+        "tech3": "Git & GitHub",
+        "tech4": "Edamame API",
         "github": "https://github.com/pandi1813",
         "liveLink": "https://pandi1813.github.io/react-portfolio/"
     }
