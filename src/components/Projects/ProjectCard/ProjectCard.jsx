@@ -9,6 +9,11 @@ export default function ProjectCard(props) {
                            {props.descriptionShort}
                         </p>
                     </div>
+                    <div className="flex justify-evenly">
+                        <a href={props.github}>GitHub</a>
+                        <a href={props.liveLink}>Live App</a>
+
+                    </div>
                     <div class="px-6 pt-4 pb-2">
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{props.tech1}</span>
                         <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">{props.tech2}</span>

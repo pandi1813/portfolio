@@ -7,8 +7,8 @@
         "tech1": "JavaScript",
         "tech2": "HTML",
         "tech3": "CSS",
-        "github": "https://github.com/pandi1813",
-        "liveLink": "https://pandi1813.github.io/react-portfolio/"
+        "github": "https://github.com/pandi1813/Dinosaur-Fun-Fact-Quiz",
+        "liveLink": "https://pandi1813.github.io/Dinosaur-Fun-Fact-Quiz/"
     },
     {
         "projectName": "Weather Dashboard",
@@ -17,8 +17,8 @@
         "tech1": "JavaScript",
         "tech2": "Open Weather API",
         "tech3": "Bootstrap",
-        "github": "https://github.com/pandi1813",
-        "liveLink": "https://pandi1813.github.io/react-portfolio/"
+        "github": "https://github.com/pandi1813/Weather-Dashboard",
+        "liveLink": "https://github.com/pandi1813/Weather-Dashboard"
     },
    
     {
@@ -28,8 +28,8 @@
         "tech1": "JavaScript",
         "tech2": "Superheroes API",
         "tech3": "Git & GitHub",
-        "github": "https://github.com/pandi1813",
-        "liveLink": "https://pandi1813.github.io/react-portfolio/"
+        "github": "https://github.com/pandi1813/Project---Multiverse-Trumps-Game",
+        "liveLink": "https://pandi1813.github.io/Project---Multiverse-Trumps-Game/"
     },
     {
         "projectName": "MealMate app",
@@ -39,7 +39,7 @@
         "tech2": "Bulma",
         "tech3": "Git & GitHub",
         "tech4": "Edamame API",
-        "github": "https://github.com/pandi1813",
-        "liveLink": "https://pandi1813.github.io/react-portfolio/"
+        "github": "https://github.com/pandi1813/recipe-app",
+        "liveLink": "https://meal-mate.netlify.app/"
     }
 ]
