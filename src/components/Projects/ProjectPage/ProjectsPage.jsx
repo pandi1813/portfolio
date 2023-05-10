@@ -9,7 +9,7 @@ export default function ProjectsPage(params) {
 
         {projectDetails.map(projectDetail => <ProjectCard {...projectDetail}/>)}
         </div>
-        
+     
         </>
     )
 }
