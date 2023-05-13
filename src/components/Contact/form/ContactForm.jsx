@@ -76,6 +76,7 @@ export default function Example() {
                   Send
                 </button>
               </div>
+              <input type="hidden" name="_next" value="http://localhost:3000/#/email_sent"></input>
             </div>
           </div>
         </div>
