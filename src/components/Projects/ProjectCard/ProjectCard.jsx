@@ -10,8 +10,8 @@ export default function ProjectCard(props) {
                         </p>
                     </div>
                     <div className="flex justify-evenly">
-                        <a href={props.github}>GitHub</a>
-                        <a href={props.liveLink}>Live App</a>
+                        <a href={props.github}  target="_blank" rel="noreferrer">GitHub</a>
+                        <a href={props.liveLink}  target="_blank" rel="noreferrer">Live App</a>
 
                     </div>
                     <div class="px-6 pt-4 pb-2">
