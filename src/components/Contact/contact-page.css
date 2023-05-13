@@ -1,4 +1,8 @@
 #github, #linkedin {
-    max-height: 30px;
+    max-height: 50px;
     margin-bottom: 20px;
+}
+
+#contact-links {
+margin-top: 15vh;
 }

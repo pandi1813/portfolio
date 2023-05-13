@@ -5,9 +5,9 @@ export default function Example() {
     <>
     <div>
       <form action="https://formsubmit.co/andrea.peter1813@gmail.com" method="post" accept-charset="UTF-8" className="text-gray-700 body-font relative">
-        <div className="container px-5 py-24 mx-auto">
+        <div id='form-container' className="container px-5 py-24 mx-auto">
           <div className="flex flex-col text-center w-full mb-12">
-            <h1 className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
+            <h1 id='contact-title' className="sm:text-3xl text-2xl font-medium title-font mb-4 text-gray-900">
               Get in touch
             </h1>
             <p className="lg:w-2/3 mx-auto leading-relaxed text-base">

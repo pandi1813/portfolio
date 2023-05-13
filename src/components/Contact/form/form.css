@@ -1,3 +1,12 @@
 #send-btn {
     background-color: #0085FF;
 }
+
+#form-container {
+    padding-bottom: 5vh;
+}
+
+#contact-title {
+    margin: 0 0 3vh;
+    font-size: 3rem;
+}
