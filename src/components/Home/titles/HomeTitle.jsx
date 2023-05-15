@@ -7,7 +7,7 @@ export default function HomeTitle() {
             <br />
             I'm <span id='name'>Andrea Peter</span>
         </h1>
-        <h2>Front-end developer</h2>
+        <h2>I like building web apps</h2>
         </>
     )
 }

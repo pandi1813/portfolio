@@ -10,3 +10,16 @@
     margin: 1.5vh;
     font-family: 'Righteous', cursive;
 }
+
+@media only screen and (max-width: 500px) {
+    #navbar {
+        flex-direction: column;
+    }
+    .nav-btn {
+        scale: 1;
+    }
+    #nav-buttons {
+        position: relative;
+        right: 8vw;
+    }
+}

@@ -10,10 +10,10 @@ export default function NavBar() {
                     <p>Andrea Peter | Front-end developer</p>
                 </div>
             </a>
-            <div>
-                <NavButton name="About" path="/about" />
-                <NavButton name="Projects" path="/projects" />
-                <NavButton name="Contact" path="contact" />
+            <div id="nav-buttons" className="grid grid-rows-1 grid-cols-3">
+                <NavButton className='nav-btn' name="About" path="/about" />
+                <NavButton className='nav-btn' name="Projects" path="/projects" />
+                <NavButton className='nav-btn' name="Contact" path="contact" />
             </div>
 
         </nav>
