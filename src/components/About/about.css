@@ -6,8 +6,19 @@
 
 
 #grid {
-    width: 60vw;
+    width: 75vw;
     margin: 15vh auto;
+    display: grid;
+    column-gap: 5vw;
+    grid-template-columns: 2.5fr 2fr;
+    grid-template-areas: 
+        'header header'
+        'p1 skills-title'
+        'p1 skill-list'
+        'p2 skill-list'
+        'p3 skill-list'
+
+    ;
 }
 
 #main-text {
@@ -20,4 +31,40 @@
 li {
     scale: 1.5;
     margin: 35px;
+}
+h1 {
+    grid-area: header;
+    padding-bottom: 8vh;
+}
+h2 {
+    grid-area: skills-title;
+}
+ul {
+    grid-area: skill-list;
+    padding: 3vh 5vw 0 3vw;
+}
+
+#p1 {
+    grid-area: p1;
+    padding-top: 5vh;
+}
+#p2 {
+    grid-area: p2;
+    padding-top: 5vh;
+}
+#p3 {
+    grid-area: p3;
+    padding-top: 5vh;
+}
+
+@media only screen and (max-width: 500px) {
+#grid {
+    grid-template-areas: 
+    "header"
+    "skills-title"
+    "skill-list"
+    "p1"
+    "p2"
+    ;
+}
 }
