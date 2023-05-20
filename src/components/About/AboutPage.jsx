@@ -13,7 +13,7 @@ export default function AboutPage() {
                 <p id='p2'>
                     <span className='p-start'>I started coding</span>  when I decided I wanted to learn a new skill. I did a bit of research and came across freeCodeCamp and began their Responsive Web Design certificate, which introduced me to the basics of HTML and CSS. Once I completed that, I was hooked and knew I wanted to keep learning. I enrolled in the Front-End Web Development Boot Camp from Trilogy Education, where I recently graduated with a strong foundation in front-end web development.</p>
 
-                <ul className='flex-none flex-wrap '>
+                <ul className='flex flex-wrap justify-center '>
                     <li className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">HTML</li>
                     <li className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">CSS</li>
                     <li className="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2">JavaScript</li>

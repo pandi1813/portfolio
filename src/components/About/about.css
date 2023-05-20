@@ -59,12 +59,26 @@ ul {
 
 @media only screen and (max-width: 500px) {
 #grid {
+    width: 100vw;
+    margin: 10vh 0 0;
+    grid-template-columns: 1fr;
     grid-template-areas: 
     "header"
-    "skills-title"
-    "skill-list"
     "p1"
     "p2"
+    "p3"
+    "skills-title"
+    "skill-list"
     ;
+}
+li {
+    scale: 1.2;
+    margin: 8px;
+}
+ul, p {
+    padding-left: 8vw;
+}
+h2 {
+    padding-top: 7vh;
 }
 }
