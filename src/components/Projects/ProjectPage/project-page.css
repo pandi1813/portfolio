@@ -7,3 +7,12 @@
     margin: 0 10vw 10vh 10vw;
     font-size: 1.2rem;
 }
+
+
+@media only screen and (max-width: 500px) {
+    
+    #card-container {
+        flex-direction: column;
+        row-gap: 5vh;
+    }
+}
